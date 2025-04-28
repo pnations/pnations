@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Philip Nations
 
-I'm a Frontend Developer focused on building responsive, accessible web applications with clean code and thoughtful design.  
-I'm excited about how AI is reshaping tech and am actively expanding my skills to stay at the forefront of innovation.
+I'm a Frontend Developer passionate about building responsive, accessible web applications with clean, maintainable code.  
+I’m currently expanding my skills into AI development to create smarter, more intuitive digital experiences.
 
-- 🔭 Currently building: a language translation app integrated with AI
+- 🔭 Current project: Building a language app with AI-powered translations
 - 🌱 Learning: AI Engineering
-- 💬 Ask me about: React, JavaScript, APIs, and responsive UI design
-- 📫 Reach me: [philipnations@gmail.com](mailto:philipnations@gmail.com)
-- ⚡ Fun fact: I have a dog named Rocky 🐶
+- 💬 Let's talk about: React, JavaScript, Firebase, and UI/UX best practices
+- 📫 Contact me: [philipnations@gmail.com](mailto:philipnations@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐶 Fun fact: Dog dad to Rocky, my energetic sidekick!
 
 ---
 
@@ -18,8 +18,12 @@ I'm excited about how AI is reshaping tech and am actively expanding my skills t
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-00C7B7?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Current Focus
-I'm passionate about blending modern frontend development with emerging AI technologies to create smarter, more intuitive web experiences.
+Blending frontend development with AI technologies to create intelligent, user-centered web applications.
+
+---
+

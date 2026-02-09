@@ -7,7 +7,6 @@ I’m currently expanding my skills into AI development to create smarter, more 
 - 🌱 Learning: AI Engineering
 - 💬 Let's talk about: React, JavaScript, Firebase, and UI/UX best practices
 - 📫 Contact me: [philipnations@gmail.com](mailto:philipnations@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐶 Fun fact: Dog dad to Rocky the Schanuzer
 
 ---
 

@@ -1,28 +1,31 @@
-# 👋 Hi, I'm Philip Nations
+# Philip Nations
 
-I'm a Frontend Developer passionate about building responsive, accessible web applications with clean, maintainable code.  
-I’m currently expanding my skills into AI development to create smarter, more intuitive digital experiences.
+Software engineer building practical software with React, TypeScript, APIs, databases, and AI.
 
-- 🔭 Current project: Building a language app with AI-powered translations
-- 🌱 Learning: AI Engineering
-- 💬 Let's talk about: React, JavaScript, Firebase, and UI/UX best practices
-- 📫 Contact me: [philipnations@gmail.com](mailto:philipnations@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+I enjoy taking ideas from concept to implementation and building products that solve real problems.
 
----
+## Tech
 
-## 🛠️ Technologies I work with
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AI/ML](https://img.shields.io/badge/AI%2FML-00C7B7?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- React
+- TypeScript
+- JavaScript
+- REST APIs
+- Node
+- PostgreSQL
+- Supabase
+- AI integration
+- Git & GitHub
+- Netlify
 
----
+## Current Project
 
-## 🚀 Current Focus
-Blending frontend development with AI technologies to create intelligent, user-centered web applications.
+### Sentinel H2O
 
----
+An OT security investigation prototype for water treatment environments.
 
+Sentinel H2O simulates security events, detects suspicious activity, correlates findings into incidents, calculates risk, and uses AI to assist with investigation and response decisions.
+
+## Links
+
+- [Portfolio](https://philipnations.com/)
+- [LinkedIn](https://www.linkedin.com/in/pnations/)

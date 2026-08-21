@@ -14,9 +14,7 @@ I enjoy taking ideas from concept to implementation and building products that s
 - PostgreSQL
 - Supabase
 - AI integration
-- Git & GitHub
-- Netlify
-
+  
 ## Current Project
 
 ### Sentinel H2O
